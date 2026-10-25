@@ -1,6 +1,6 @@
 ## Hi, I'm Hirantha 👋
 
-Information Systems student in Colombo. I build [free online tools and exam pages](https://hirantha.me), and co-founded [Bug Circuit](https://bugcircuit.com).
+Information Systems student in Colombo and co-founded [Bug Circuit](https://bugcircuit.com).
 
 ### About me
 
