@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+<title id="title">Hardware Repair Tracker</title>
+<desc id="desc">Tracks a hardware repair from request to payment, with dashboards for customers, technicians and admins.</desc>
+<style>.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#131b2c"/></linearGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8892bf"/><stop offset="1" stop-color="#8892bf" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="519" height="189" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<rect x="24" y="0.5" width="220" height="3" rx="1.5" fill="url(#top)"/>
+<circle cx="30" cy="36" r="5" fill="#8892bf"/>
+<text x="44" y="41" class="m" font-size="13" fill="#8b949e">PHP · web · team project</text>
+<text x="494" y="42" text-anchor="end" class="s" font-size="18" fill="#8b949e">↗</text>
+<text x="24" y="78" class="s" font-size="22" font-weight="700" fill="#f0f6fc">Hardware Repair Tracker</text>
+<text x="24" y="108" class="s" font-size="15" fill="#c9d1d9">Tracks a hardware repair from request to payment, with</text><text x="24" y="130" class="s" font-size="15" fill="#c9d1d9">dashboards for customers, technicians and admins.</text>
+<rect x="24" y="146" width="44" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="46.0" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">PHP</text><rect x="76" y="146" width="58" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="105.0" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">MySQL</text><rect x="142" y="146" width="95" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="189.5" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">JavaScript</text><rect x="245" y="146" width="66" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="278.0" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">Apache</text>
+</svg>

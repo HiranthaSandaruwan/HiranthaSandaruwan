@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+<title id="title">Multi-threaded Web Server</title>
+<desc id="desc">An HTTP server built from scratch, with one thread per connection and zero-copy sendfile() for static files.</desc>
+<style>.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#131b2c"/></linearGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a8b9cc"/><stop offset="1" stop-color="#a8b9cc" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="519" height="189" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<rect x="24" y="0.5" width="220" height="3" rx="1.5" fill="url(#top)"/>
+<circle cx="30" cy="36" r="5" fill="#a8b9cc"/>
+<text x="44" y="41" class="m" font-size="13" fill="#8b949e">C · systems</text>
+<text x="494" y="42" text-anchor="end" class="s" font-size="18" fill="#8b949e">↗</text>
+<text x="24" y="78" class="s" font-size="22" font-weight="700" fill="#f0f6fc">Multi-threaded Web Server</text>
+<text x="24" y="108" class="s" font-size="15" fill="#c9d1d9">An HTTP server built from scratch, with one thread per</text><text x="24" y="130" class="s" font-size="15" fill="#c9d1d9">connection and zero-copy sendfile() for static files.</text>
+<rect x="24" y="146" width="29" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="38.5" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">C</text><rect x="61" y="146" width="117" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="119.5" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">POSIX sockets</text><rect x="186" y="146" width="80" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="226.0" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">pthreads</text><rect x="274" y="146" width="51" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text x="299.5" y="162" text-anchor="middle" class="m" font-size="12" fill="#c9d1d9">HTTP</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-labelledby="title">
+<title id="title">A small train travels between stations named systems, mobile, web, security and business.</title>
+<style>.s{font-family:'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace}</style>
+<line x1="80" y1="34" x2="1120" y2="34" stroke="#8b949e" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="80" y1="34" x2="1120" y2="34" stroke="#8b949e" stroke-opacity="0.25" stroke-width="8" stroke-dasharray="2 14"/>
+<circle cx="80" cy="34" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/><text x="80" y="66" text-anchor="middle" class="m" font-size="12" fill="#8b949e">systems</text><circle cx="340" cy="34" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/><text x="340" y="66" text-anchor="middle" class="m" font-size="12" fill="#8b949e">mobile</text><circle cx="600" cy="34" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/><text x="600" y="66" text-anchor="middle" class="m" font-size="12" fill="#8b949e">web</text><circle cx="860" cy="34" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/><text x="860" y="66" text-anchor="middle" class="m" font-size="12" fill="#8b949e">security</text><circle cx="1120" cy="34" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/><text x="1120" y="66" text-anchor="middle" class="m" font-size="12" fill="#8b949e">business</text>
+<g>
+<rect x="-18" y="-6" width="36" height="12" rx="6" fill="#22d3ee"/>
+<rect x="-13" y="-3" width="8" height="6" rx="2" fill="#0d1117" opacity="0.6"/>
+<rect x="5" y="-3" width="8" height="6" rx="2" fill="#0d1117" opacity="0.6"/>
+<animateMotion dur="20s" repeatCount="indefinite" path="M80,34 H1120" calcMode="linear"
+ keyPoints="0;0;0.25;0.25;0.5;0.5;0.75;0.75;1;1;0.75;0.75;0.5;0.5;0.25;0.25;0;0" keyTimes="0.0000;0.0200;0.1050;0.1450;0.2300;0.2700;0.3550;0.3950;0.4800;0.5200;0.6050;0.6450;0.7300;0.7700;0.8550;0.8950;0.9800;1.0000"/>
+</g>
+</svg>
