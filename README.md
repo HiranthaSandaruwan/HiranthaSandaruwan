@@ -10,13 +10,6 @@ I enjoy finding better ways to get things done. I adapt quickly to new environme
 
 Studying and working at the same time has left me with knowledge and experience across several fields rather than one, and that's the direction I want to keep going.
 
-### Projects
-
-- **[Rivermede Transit Simulator](https://github.com/HiranthaSandaruwan/rivermede_transit_simulator)**: a bus and train network as a graph, comparing BFS and DFS. C, group project.
-- **[Web Server](https://github.com/HiranthaSandaruwan/Web-Sever)**: a multi-threaded HTTP server. C.
-- **[Kotlin Text Editor](https://github.com/HiranthaSandaruwan/Modern-Mobile-Text-Editor-with-Incremental-Version-Control)**: an Android editor with version history. Kotlin, team project.
-- **[Hardware Repair Tracker](https://github.com/HiranthaSandaruwan/Hardware-Request-Tracker)**: tracks repairs from request to payment. PHP and MySQL, team project.
-
 ### Contact
 
 [hirantha.me](https://hirantha.me) · [LinkedIn](https://www.linkedin.com/in/hirantha-sandaruwan-lakshan-961b72314/) · [hirantha2004@gmail.com](mailto:hirantha2004@gmail.com)
